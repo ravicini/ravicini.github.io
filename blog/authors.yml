@@ -1,0 +1,12 @@
+marco:
+  name: Marco Ravicini
+  title: me
+  url: https://ravicini.com
+  image_url: https://github.com/ravicini.png
+  description: I am a software engineer and open source...
+  page:
+    permalink: '/all-marco-ravicini-articles'
+  socials:
+    x: marcoravicini
+    linkedin: marcoravicini
+    github: ravicini
