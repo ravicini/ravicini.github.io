@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ravicini.ch/about/</loc>
+    <lastmod>2020-07-26T20:48:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravicini.ch/</loc>
+    <lastmod>2020-07-26T20:48:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravicini.ch/posts/</loc>
+    <lastmod>2020-07-26T20:48:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravicini.ch/posts/what-is-this-about/</loc>
+    <lastmod>2020-07-26T20:48:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravicini.ch/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ravicini.ch/tags/</loc>
+  </url>
+  
+</urlset>
