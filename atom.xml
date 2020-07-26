@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Marco&#39;s travels in the world of IT</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-07-26T20:48:57&#43;00:00</updated>
+    <updated>2020-07-26T20:52:51&#43;00:00</updated>
     <id>https://ravicini.ch/</id>
     <link rel="alternate" type="text/html" href="https://ravicini.ch/" />
     <link rel="self" type="application/atom&#43;xml" href="https://ravicini.ch/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">What is this about?</title>
             <link rel="alternate" type="text/html" href="https://ravicini.ch/posts/what-is-this-about/" />
             <id>https://ravicini.ch/posts/what-is-this-about/</id>
-            <updated>2020-07-26T20:48:45&#43;00:00</updated>
+            <updated>2020-07-26T20:52:38&#43;00:00</updated>
             <published>2020-07-26T12:38:36&#43;02:00</published>
             <author>
                     <name>marco</name>
