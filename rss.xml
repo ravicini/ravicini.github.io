@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 26 Jul 2020 21:08:31 &#43;0000</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2020 20:54:05 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://ravicini.ch/rss.xml" />
         
@@ -38,8 +38,7 @@
                 
                 <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)</copyright>
                 
-                    <description>&lt;p&gt;This is my personal blog, mainly for documentation and learning purposes for myself. The sharing is a neat side effect for me.&lt;/p&gt;
-&lt;p&gt;As this is my first post I&amp;rsquo;ll try some of the markdown, hugo and theme features here.&lt;/p&gt;
+                    <description>&lt;p&gt;This is my personal blog, mainly for documentation and learning purposes for myself. The sharing is a neat side effect for me. As this is my first post I’ll try some of the markdown, hugo and theme features here.&lt;/p&gt;
 &lt;h2 id=&#34;headers&#34;&gt;Headers&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -197,7 +196,7 @@ Some text to show that the reference links can follow later.
 example.com (but not on Github, for example).&lt;/p&gt;
 &lt;p&gt;Some text to show that the reference links can follow later.&lt;/p&gt;
 &lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;aperture.jpg&#34; alt=&#34;Test&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;aperture.jpg&#34; alt=&#34;Avatar&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -447,7 +446,23 @@ This line is only separated by a single newline, so it&amp;rsquo;s a separate li
                 
                     
                         
+                            
+                                
+                                
+                                
+                                    <category domain="https://ravicini.ch/categories/test/">Test</category>
+                                
+                            
+                        
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://ravicini.ch/tags/test/">Test</category>
+                                
+                            
                         
                     
                 

@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Marco&#39;s travels in the world of IT</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-07-26T21:08:31&#43;00:00</updated>
+    <updated>2020-08-06T20:54:05&#43;00:00</updated>
     <id>https://ravicini.ch/</id>
     <link rel="alternate" type="text/html" href="https://ravicini.ch/" />
     <link rel="self" type="application/atom&#43;xml" href="https://ravicini.ch/atom.xml" />
@@ -20,19 +20,16 @@
             <title type="text">What is this about?</title>
             <link rel="alternate" type="text/html" href="https://ravicini.ch/posts/what-is-this-about/" />
             <id>https://ravicini.ch/posts/what-is-this-about/</id>
-            <updated>2020-07-26T21:08:20&#43;00:00</updated>
+            <updated>2020-08-06T20:53:46&#43;00:00</updated>
             <published>2020-07-26T12:38:36&#43;02:00</published>
             <author>
                     <name>marco</name>
                     <uri>https://ravicini.ch/</uri>
                     <email>marco@ravicini.ch</email>
                     </author>
-            <rights>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)</rights><summary type="html">This is my personal blog, mainly for documentation and learning purposes for myself. The sharing is a neat side effect for me.
-As this is my first post I&amp;rsquo;ll try some of the markdown, hugo and theme features here.
-Headers 1 2 3 4 5 6  # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6   H1 H2 H3 H4 H5 H6 Lists 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16  1.</summary>
+            <rights>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)</rights><summary type="html">This is my personal blog, mainly for documentation and learning purposes for myself. The sharing is a neat side effect for me. As this is my first post I’ll try some of the markdown, hugo and theme features here.</summary>
             
-                <content type="html">&lt;p&gt;This is my personal blog, mainly for documentation and learning purposes for myself. The sharing is a neat side effect for me.&lt;/p&gt;
-&lt;p&gt;As this is my first post I&amp;rsquo;ll try some of the markdown, hugo and theme features here.&lt;/p&gt;
+                <content type="html">&lt;p&gt;This is my personal blog, mainly for documentation and learning purposes for myself. The sharing is a neat side effect for me. As this is my first post I’ll try some of the markdown, hugo and theme features here.&lt;/p&gt;
 &lt;h2 id=&#34;headers&#34;&gt;Headers&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -190,7 +187,7 @@ Some text to show that the reference links can follow later.
 example.com (but not on Github, for example).&lt;/p&gt;
 &lt;p&gt;Some text to show that the reference links can follow later.&lt;/p&gt;
 &lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;aperture.jpg&#34; alt=&#34;Test&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;aperture.jpg&#34; alt=&#34;Avatar&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -440,7 +437,23 @@ This line is only separated by a single newline, so it&amp;rsquo;s a separate li
             
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://ravicini.ch/categories/test/" term="Test" label="Test" />
+                            
+                        
+                    
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://ravicini.ch/tags/test/" term="Test" label="Test" />
+                            
+                        
                     
                 
             
