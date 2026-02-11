@@ -74,18 +74,7 @@ const config: Config = {
     },
     navbar: {
       title: 'Marco Ravicini',
-      logo: {
-        alt: 'Marco Ravicini Logo',
-        src: 'img/logo.svg',
-      },
       items: [
-        // {
-        //   type: 'docSidebar',
-        //   sidebarId: 'tutorialSidebar',
-        //   position: 'left',
-        //   label: 'Tutorial',
-        // },
-        //{to: '/blog', label: 'Blog', position: 'left'},
         {to: '/about', label: 'About', position: 'right'},
         {
           href: 'https://github.com/ravicini/ravicini.github.io',
@@ -96,21 +85,6 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      links: [
-        // {
-        //   title: 'More',
-        //   items: [
-        //     {
-        //       label: 'Blog',
-        //       to: '/blog',
-        //     },
-        //     {
-        //       label: 'GitHub',
-        //       href: 'https://github.com/ravicini/ravicini.github.io',
-        //     },
-        //   ],
-        // },
-      ],
       copyright: `With ♥️ ${new Date().getFullYear()} by Marco. Creative Commons ShareAlike Attribution 4.0 International License.`,
     },
     prism: {
