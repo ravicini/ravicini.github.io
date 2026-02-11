@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -6,25 +8,44 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #3d3846;
+  --ifm-color-primary-dark: #37323f;
+  --ifm-color-primary-darker: #34303c;
+  --ifm-color-primary-darkest: #2b2731;
+  --ifm-color-primary-light: #433e4d;
+  --ifm-color-primary-lighter: #464051;
+  --ifm-color-primary-lightest: #4f495b;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  
+  /* Background colors */
+  --ifm-background-color: oklch(0.989506 0.009007 78.2827 / 0.8);
+  --ifm-navbar-background-color: oklch(0.989506 0.009007 78.2827 / 0.8);
+  --ifm-footer-background-color: oklch(0.989506 0.009007 78.2827 / 0.8);
+  
+  /* Fonts */
+  --ifm-font-family-base: 'Inter', system-ui, sans-serif;
+  --ifm-heading-font-family: 'Inter', system-ui, sans-serif;
+  --ifm-font-color: oklch(0.278078 0.029596 256.848);
+  --ifm-link-decoration: underline;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #e0f7fa;
+  --ifm-color-primary-dark: #b7ecf3;
+  --ifm-color-primary-darker: #a3e7f0;
+  --ifm-color-primary-darkest: #66d7e6;
+  --ifm-color-primary-light: #ffffff;
+  --ifm-color-primary-lighter: #ffffff;
+  --ifm-color-primary-lightest: #ffffff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
+  /* Background colors */
+  --ifm-background-color: oklch(0.165569 0.013237 248.647 / 0.8);
+  --ifm-navbar-background-color: oklch(0.165569 0.013237 248.647 / 0.8);
+  --ifm-footer-background-color: oklch(0.165569 0.013237 248.647 / 0.8);
+  
+  /* Fonts */
+  --ifm-font-color: oklch(0.960247 0.024425 206.195);
 }

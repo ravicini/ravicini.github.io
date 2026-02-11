@@ -46,6 +46,9 @@ const config: Config = {
     [
       'classic',
       {
+        theme: {
+          customCss: './src/css/custom.css',
+        },
         docs: false,
         blog: {
           routeBasePath: '/',
@@ -58,9 +61,6 @@ const config: Config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
-        },
-        theme: {
-          customCss: './src/css/custom.css',
         },
       } satisfies Preset.Options,
     ],
