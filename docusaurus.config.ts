@@ -85,7 +85,7 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      copyright: `With ♥️ ${new Date().getFullYear()} by Marco. Creative Commons ShareAlike Attribution 4.0 International License.`,
+      copyright: `Made with ♥️ ${new Date().getFullYear()} by Marco. Creative Commons ShareAlike Attribution 4.0 International License.`,
     },
     prism: {
       theme: prismThemes.github,
