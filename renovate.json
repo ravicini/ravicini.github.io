@@ -1,0 +1,42 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended"],
+  "schedule": ["after 10pm on friday"],
+  "timezone": "Europe/Zurich",
+  "minimumReleaseAge": "3 days",
+  "labels": ["dependencies"],
+  "packageRules": [
+    {
+      "description": "Docusaurus core and presets",
+      "matchPackageNames": [
+        "@docusaurus/**"
+      ],
+      "groupName": "docusaurus"
+    },
+    {
+      "description": "React framework",
+      "matchPackageNames": [
+        "react",
+        "react-dom",
+        "@mdx-js/react"
+      ],
+      "groupName": "react"
+    },
+    {
+      "description": "TypeScript tooling",
+      "matchPackageNames": [
+        "typescript"
+      ],
+      "groupName": "typescript"
+    },
+    {
+      "description": "Dev dependencies (linting, types, configs)",
+      "matchDepTypes": ["devDependencies"],
+      "excludePackageNames": [
+        "@docusaurus/**",
+        "typescript"
+      ],
+      "groupName": "dev-dependencies"
+    }
+  ]
+}
