@@ -5,6 +5,10 @@
   "timezone": "Europe/Zurich",
   "minimumReleaseAge": "3 days",
   "labels": ["dependencies"],
+  "lockFileMaintenance": {
+    "enabled": true,
+    "schedule": "after 10pm on friday"
+  },
   "packageRules": [
     {
       "description": "Docusaurus core and presets",
